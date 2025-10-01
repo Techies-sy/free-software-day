@@ -1,0 +1,3 @@
+Every line of code has someone to blame, for freedom or for chains.
+
+Follow the trail. Every commit tells a story. Use the tool that gets the blame from the past. The author’s mark is your key.
